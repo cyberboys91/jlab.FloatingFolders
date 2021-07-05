@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Cartelle mobili</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">INIZIO</string>
+    <string name="starting_service">INIZIO…</string>
+    <string name="stop_service">STOP</string>
+    <string name="stopping_service">STOP…</string>
+    <string name="rate_app">Valuta questa applicazione</string>
+    <string name="about">Di</string>
+    <string name="close">Uscita</string>
+    <string name="app_list">APPS</string>
+    <string name="accept">OK</string>
+    <string name="contact">Contatto</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">Non hai un applicazione di posta elettronica.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, Contatto: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">INIZIALE</string>
+    <string name="not_channel">Cartelle mobili</string>
+    <string name="empty_list">Nessun elemento</string>
+    <string name="search_hint">Nome</string>
+    <string name = "started_floating_service"> il servizio Cartelle mobili è in esecuzione… </string>
+    <string name = "folder_name"> Nome cartella </string>
+    <string name = "folder_color"> Colore cartella </string>
+    <string name = "cancel"> Annulla </string>
+    <string name = "save"> Salva </string>
+    <string name = "ok"> OK </string>
+    <string name = "question"> Domanda </string>
+    <string name = "delete_folder_question"> Vuoi eliminare la cartella %s? </string>
+    <string name = "folders"> Cartelle </string>
+    <string name = "add_app_to_folder"> Aggiungi applicazioni alla cartella %s </string>
+    <string name = "edit_folder"> Modifica cartella %s </string>
+    <string name = "delete_folder"> Elimina cartella %s </string>
+    <string name = "allow_floating_folder"> Aggiungi la cartella %s alla lista float </string>
+    <string name = "deny_floating_folder"> Rimuovi la cartella %s dall\'elenco float</string>
+</resources>

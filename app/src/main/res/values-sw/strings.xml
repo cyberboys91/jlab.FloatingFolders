@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Folda zinazoelea </string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">ANZA</string>
+    <string name="starting_service">ANZA…</string>
+    <string name="stop_service">ACHA</string>
+    <string name="stopping_service">ACHA…</string>
+    <string name="rate_app">Kadiria programu hii</string>
+    <string name="about">Kuhusu</string>
+    <string name="close">Nenda nje</string>
+    <string name="app_list">APPS</string>
+    <string name="accept">OK</string>
+    <string name="contact">Mawasiliano</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">Huna programu tumizi ya barua pepe.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, Mawasiliano: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">KUU</string>
+    <string name="not_channel">Folda zinazoelea</string>
+    <string name="empty_list">Tupu</string>
+    <string name="search_hint">Tafuta jina</string>
+    <string name = "started_floating_service"> Huduma ya Vifurushi vya Kuelea inaendelea… </string>
+    <string name = "folder_name"> Jina la folda </string>
+    <string name = "folder_color"> Rangi ya folda </string>
+    <string name = "cancel"> Ghairi </string>
+    <string name = "save"> Hifadhi </string>
+    <string name = "ok"> Sawa </string>
+    <string name = "question"> Swali </string>
+    <string name = "delete_folder_question"> Je! unataka kufuta folda %s? </string>
+    <string name = "folders"> Folda </string>
+    <string name = "add_app_to_folder"> Ongeza programu kwenye folda %s </string>
+    <string name = "edit_folder"> Hariri folda %s </string>
+    <string name = "delete_folder"> Futa folda %s </string>
+    <string name = "allow_floating_folder"> Ongeza folda %s kwenye orodha ya kuelea </string>
+    <string name = "deny_floating_folder"> Ondoa folda %s kutoka orodha ya kuelea </string>
+</resources>

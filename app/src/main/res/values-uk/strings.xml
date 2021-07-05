@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Плаваючі папки </string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">СТАРТ</string>
+    <string name="starting_service">СТАРТ…</string>
+    <string name="stop_service">СТОП</string>
+    <string name="stopping_service">СТОП…</string>
+    <string name="rate_app">Оцініть цей додаток</string>
+    <string name="about">Про</string>
+    <string name="close">Вийди</string>
+    <string name="app_list">ЗАЯВКИ</string>
+    <string name="accept">Гаразд</string>
+    <string name="contact">Зв\'язок</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">У вас немає програми електронної пошти.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, Зв\'язок: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">ПРИНЦИПІАЛЬНИЙ</string>
+    <string name="not_channel">Плаваючі папки</string>
+    <string name="empty_list">Без елементів</string>
+    <string name="search_hint">Шукати ім\'я</string>
+    <string name = "started_floating_service"> запущена служба плаваючих папок… </string>
+    <string name = "folder_name"> Назва папки </string>
+    <string name = "folder_color"> Колір папки </string>
+    <string name = "cancel"> Скасувати </string>
+    <string name = "save"> Зберегти </string>
+    <string name = "ok"> Добре </string>
+    <string name = "question"> Питання </string>
+    <string name = "delete_folder_question"> Ви хочете видалити папку %s? </string>
+    <string name = "folders"> Папки </string>
+    <string name = "add_app_to_folder"> Додати програми до папки %s </string>
+    <string name = "edit_folder"> Редагувати папку %s </string>
+    <string name = "delete_folder"> Видалити папку %s </string>
+    <string name = "allow_floating_folder"> Додати папку %s до плаваючого списку </string>
+    <string name = "deny_floating_folder"> Видалити папку %s із плаваючого списку </string>
+</resources>

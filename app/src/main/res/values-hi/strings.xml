@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">फ्लोटिंग फोल्डर</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">शुरू</string>
+    <string name="starting_service">शुरुआत…</string>
+    <string name="stop_service">रुकें</string>
+    <string name="stopping_service">रोक…</string>
+    <string name="rate_app">इस ऐप्लिकेशन को रेट करें</string>
+    <string name="about">के बारे में</string>
+    <string name="close">बाहर जाओ</string>
+    <string name="app_list">ऐप्स</string>
+    <string name="accept">ठीक</string>
+    <string name="contact">संपर्क करें</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">आपके पास ईमेल एप्लिकेशन नहीं है।</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, संपर्क: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">मुख पृष्ठ</string>
+    <string name="not_channel">फ्लोटिंग फोल्डर</string>
+    <string name="empty_list">कोई तत्व नहीं</string>
+    <string name="search_hint">खोज नाम</string>
+    <string name="started_floating_service">फ़्लोटिंग फ़ोल्डर सेवा चल रही है…</string>
+    <string name="folder_name">फ़ोल्डर का नाम</string>
+    <string name="folder_color">फ़ोल्डर का रंग</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="save">सहेजें</string>
+    <string name="ok">ठीक है</string>
+    <string name="question">प्रश्न</string>
+    <string name="delete_folder_question">क्या आप फ़ोल्डर %s को हटाना चाहते हैं?</string>
+    <string name="folders">फ़ोल्डर</string>
+    <string name="add_app_to_folder">फ़ोल्डर %s में एप्लिकेशन जोड़ें</string>
+    <string name="edit_folder">फ़ोल्डर %s संपादित करें</string>
+    <string name="delete_folder">फ़ोल्डर %s हटाएं</string>
+    <string name="allow_floating_folder">फ़्लोट सूची में फ़ोल्डर %s जोड़ें</string>
+    <string name="deny_floating_folder">फ्लोट सूची से फ़ोल्डर %s निकालें</string>
+</resources>

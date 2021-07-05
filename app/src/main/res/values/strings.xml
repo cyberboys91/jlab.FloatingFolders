@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Floatings Folders</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">START</string>
+    <string name="starting_service">STARTING…</string>
+    <string name="stop_service">STOP</string>
+    <string name="stopping_service">STOPPING…</string>
+    <string name="rate_app">Rate this app</string>
+    <string name="about">About</string>
+    <string name="close">Close</string>
+    <string name="app_list">APPS</string>
+    <string name="accept">OK</string>
+    <string name="contact">Contact</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">You do not have an email application.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, contact to: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">HOME</string>
+    <string name="started_floating_service">the Floating Folders service is running…</string>
+    <string name="not_channel">Floatings Folder</string>
+    <string name="empty_list">No Elements</string>
+    <string name="search_hint">Search name</string>
+    <string name="folder_name">Folder name</string>
+    <string name="folder_color">Folder color</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="question">Question</string>
+    <string name="delete_folder_question">You want to delete the folder %s?</string>
+    <string name="folders">Folders</string>
+    <string name="add_app_to_folder">Add applications to folder %s</string>
+    <string name="edit_folder">Edit the folder %s</string>
+    <string name="delete_folder">Delete the folder %s</string>
+    <string name="allow_floating_folder">Add %s to floating folder</string>
+    <string name="deny_floating_folder">Remove %s from floating folder</string>
+</resources>

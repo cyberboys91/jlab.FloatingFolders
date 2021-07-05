@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Kayan Klasörler</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">BAŞLAT</string>
+    <string name="starting_service">BAŞLAT…</string>
+    <string name="stop_service">DUR</string>
+    <string name="stopping_service">DUR…</string>
+    <string name="rate_app">Bu uygulamayı oyla</string>
+    <string name="about">Hakkında</string>
+    <string name="close">çıkış</string>
+    <string name="app_list">APPS</string>
+    <string name="accept">OK</string>
+    <string name="contact">İletişim</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">E-posta uygulamanız yok.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, İletişim: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">ANA SAYFA</string>
+    <string name="not_channel">Kayan Klasörler</string>
+    <string name="empty_list">Öğe Yok</string>
+    <string name="search_hint">Arama adı</string>
+    <string name = "started_floating_service"> Kayan Klasörler hizmeti çalışıyor… </string>
+    <string name = "folder_name"> Klasör adı </string>
+    <string name = "folder_color"> Klasör rengi </string>
+    <string name = "cancel"> İptal </string>
+    <string name = "save"> Kaydet </string>
+    <string name = "ok"> Tamam </string>
+    <string name = "question"> Soru </string>
+    <string name = "delete_folder_question"> %s klasörünü silmek istiyor musunuz? </string>
+    <string name = "folders"> Klasörler </string>
+    <string name = "add_app_to_folder"> Uygulamaları %s klasörüne ekleyin </string>
+    <string name = "edit_folder"> %s klasörünü düzenle </string>
+    <string name = "delete_folder"> %s klasörünü sil </string>
+    <string name = "allow_floating_folder"> %s klasörünü kayan listeye ekleyin </string>
+    <string name = "deny_floating_folder"> %s klasörünü kayan listeden kaldırın </string>
+</resources>

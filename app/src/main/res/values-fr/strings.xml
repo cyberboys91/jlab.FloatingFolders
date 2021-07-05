@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Dossiers flottants </string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">DÉBUT</string>
+    <string name="starting_service">DÉBUT…</string>
+    <string name="stop_service">ARRÊTEZ</string>
+    <string name="stopping_service">ARRÊTEZ…</string>
+    <string name="rate_app">Évaluer l\'application</string>
+    <string name="about">À propos de</string>
+    <string name="close">Sortie</string>
+    <string name="app_list">APPS</string>
+    <string name="accept">OK</string>
+    <string name="contact">Contact</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">Vous n\'avez pas d\'application de messagerie.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, contacter à: <i>jlab.apps@gmail.com</i></string>
+    <string name="home">ACCUEIL</string>
+    <string name="not_channel">Dossiers flottants</string>
+    <string name="empty_list">Nô Éléments</string>
+    <string name="search_hint">Nom de recherche</string>
+    <string name="started_floating_service">le service de dossiers flottants est en cours d\'exécution…</string>
+    <string name="folder_name">Nom du dossier</string>
+    <string name="folder_color">Couleur du dossier</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Enregistrer</string>
+    <string name="ok">OK</string>
+    <string name="question">Question</string>
+    <string name="delete_folder_question">Voulez-vous supprimer le dossier %s?</string>
+    <string name="folders">Dossiers</string>
+    <string name="add_app_to_folder">Ajouter des applications au dossier %s</string>
+    <string name="edit_folder">Modifier le dossier %s</string>
+    <string name="delete_folder">Supprimer le dossier %s</string>
+    <string name="allow_floating_folder">Ajouter le dossier %s à la liste flottante</string>
+    <string name="deny_floating_folder">Supprimer le dossier %s de la liste flottante</string>
+</resources>

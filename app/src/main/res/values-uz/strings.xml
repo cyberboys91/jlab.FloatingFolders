@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Suzuvchi papkalar</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">BOSHLASH</string>
+    <string name="starting_service">BOSHLASH…</string>
+    <string name="stop_service">TO\'XTA</string>
+    <string name="stopping_service">TO\'XTA…</string>
+    <string name="rate_app">Ushbu ilovani baholang</string>
+    <string name="about">Haqida</string>
+    <string name="close">Chiqish</string>
+    <string name="app_list">ILOVALAR</string>
+    <string name="accept">OK</string>
+    <string name="contact">Aloqa</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">Sizda elektron pochta orqali ariza yo\'q.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, Aloqa: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">UY SAHIFASI</string>
+    <string name="not_channel">Suzuvchi papkalar</string>
+    <string name="empty_list">Elementlar yo‘q</string>
+    <string name="search_hint">Qidiruv nomi</string>
+    <string name = "started_floating_service"> Suzuvchi papkalar xizmati ishlamoqda… </string>
+    <string name = "folder_name"> papka nomi </string>
+    <string name = "folder_color"> Papka rangi </string>
+    <string name = "cancel"> Bekor qilish </string>
+    <string name = "save"> Saqlash </string>
+    <string name = "ok"> OK </string>
+    <string name = "question"> Savol </string>
+    <string name = "delete_folder_question">%s papkasini o\'chirmoqchimisiz? </string>
+    <string name = "folders"> Papkalar </string>
+    <string name = "add_app_to_folder"> Ilovalarni %s papkaga qo\'shing </string>
+    <string name = "edit_folder">%s papkasini tahrirlash </string>
+    <string name = "delete_folder">%s jildni o\'chirish </string>
+    <string name = "allow_floating_folder"> float ro\'yxatiga %s papkasini qo\'shing </string>
+    <string name = "deny_floating_folder">%s papkasini float ro\'yxatidan olib tashlash </string>
+</resources>

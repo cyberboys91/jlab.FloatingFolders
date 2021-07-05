@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Carpetas Flotantes</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">INICIAR</string>
+    <string name="starting_service">INICIANDO…</string>
+    <string name="stop_service">DETENER</string>
+    <string name="stopping_service">DETENIENDO…</string>
+    <string name="rate_app">Calificar esta app</string>
+    <string name="about">Acerca de</string>
+    <string name="close">Cerrar</string>
+    <string name="app_list">APPS</string>
+    <string name="accept">OK</string>
+    <string name="contact">Contactar</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">No se encontró una aplicación de correo.</string>
+    <string name="about_content"><b>Carpetas Flotantes v1.0</b>, contactar a: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">INICIO</string>
+    <string name="started_floating_service">el servicio Capetas Flotantes está corriendo…</string>
+    <string name="not_channel">Carpetas Flotantes</string>
+    <string name="empty_list">Sin elementos</string>
+    <string name="search_hint">Buscar nombre</string>
+    <string name="folder_name">Nombre de la carpeta</string>
+    <string name="folder_color">Color de la carpeta</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="ok">OK</string>
+    <string name="question">Pregunta</string>
+    <string name="delete_folder_question">Desea eliminar la carpeta %s?</string>
+    <string name="folders">Carpetas</string>
+    <string name="add_app_to_folder">Añadir aplicaciones a la carpeta %s</string>
+    <string name="edit_folder">Editar la carpeta %s</string>
+    <string name="delete_folder">Eliminar la carpeta %s</string>
+    <string name="allow_floating_folder">Añadir la carpeta %s a la lista de flotantes</string>
+    <string name="deny_floating_folder">Eliminar la carpeta %s de la lista de flotantes</string>
+</resources>

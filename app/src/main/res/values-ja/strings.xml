@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">フローティングフォルダ</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">開始</string>
+    <string name="starting_service">開始…</string>
+    <string name="stop_service">停止</string>
+    <string name="stopping_service">停止…</string>
+    <string name="about">約</string>
+    <string name="close">出口</string>
+    <string name="app_list">APPS</string>
+    <string name="accept">OK</string>
+    <string name="contact">連絡先</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">メール申し込みはありません。</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, 連絡先: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">ホームページ</string>
+    <string name="not_channel">フローティングフォルダ</string>
+    <string name="empty_list">要素なし</string>
+    <string name="search_hint">検索名</string>
+    <string name="rate_app">このアプリを評価する</string>
+    <string name = "started_floating_service"> FloatingFoldersサービスが実行されています…</string>
+    <string name = "folder_name">フォルダ名</string>
+    <string name = "folder_color">フォルダの色</string>
+    <string name = "cancel">キャンセル</string>
+    <string name = "save">保存</string>
+    <string name = "ok"> OK </string>
+    <string name = "question">質問</string>
+    <string name = "delete_folder_question">フォルダ%sを削除しますか？</string>
+    <string name = "folders">フォルダ</string>
+    <string name = "add_app_to_folder">アプリケーションをフォルダーに追加します%s </string>
+    <string name = "edit_folder">フォルダの編集%s </string>
+    <string name = "delete_folder">フォルダを削除します%s </string>
+    <string name = "allow_floating_folder">フォルダー%sをfloatリストに追加</string>
+    <string name = "deny_floating_folder">フロートリストからフォルダ%sを削除します</string>
+</resources>

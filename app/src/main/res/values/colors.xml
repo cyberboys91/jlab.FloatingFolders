@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#38000000</color>
+    <color name="dark">#252525</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_dark">#99000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_dark">#c7c7c7</color>
+    <color name="transparent_white">#40808080</color>
+    <color name="transparent_white_dark">#ec252525</color>
+    <color name="neutral">#2389af</color>
+    <color name="yellow">#c59a2d</color>
+    <color name="gray">#282b36</color>
+    <color name="black">#000000</color>
+    <color name="floating_button_color">#4b4b4b</color>
+    <color name="folder_color_1">#1F3A50</color>
+    <color name="folder_color_2">#3C8DB1</color>
+    <color name="folder_color_3">#8A7E10</color>
+    <color name="folder_color_4">#5E8531</color>
+    <color name="folder_color_5">#A59975</color>
+    <color name="folder_color_6">#B787BF</color>
+    <color name="folder_color_7">#937345</color>
+    <color name="folder_color_8">#00BCD4</color>
+    <color name="folder_color_9">#6A78C5</color>
+    <color name="folder_color_10">#26914A</color>
+    <color name="folder_color_11">#303233</color>
+    <color name="folder_color_12">#7078A6</color>
+
+    <color name="folder_stroke_color_1">#0BB5D3</color>
+    <color name="folder_stroke_color_2">#1D4557</color>
+    <color name="folder_stroke_color_3">#47421A</color>
+    <color name="folder_stroke_color_4">#51552F</color>
+    <color name="folder_stroke_color_5">#3E3B31</color>
+    <color name="folder_stroke_color_6">#BC605C</color>
+    <color name="folder_stroke_color_7">#4A4031</color>
+    <color name="folder_stroke_color_8">#154349</color>
+    <color name="folder_stroke_color_9">#32343E</color>
+    <color name="folder_stroke_color_10">#0C2B16</color>
+    <color name="folder_stroke_color_11">#755C29</color>
+    <color name="folder_stroke_color_12">#4B5BB3</color>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Flytande mappar</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">START</string>
+    <string name="starting_service">START…</string>
+    <string name="stop_service">SLUTA</string>
+    <string name="stopping_service">SLUTA…</string>
+    <string name="rate_app">Betygsätt denna app</string>
+    <string name="about">Handla om</string>
+    <string name="close">Stänga</string>
+    <string name="app_list">APPS</string>
+    <string name="accept">OK</string>
+    <string name="contact">Kontakta</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">Du har inte ett e-postprogram.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, Kontakta: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">STARTSIDA</string>
+    <string name="not_channel">Flytande mappar</string>
+    <string name="empty_list">Inga element</string>
+    <string name="search_hint">Sök Namn</string>
+    <string name = "started_floating_service"> Tjänsten Flytande mappar körs… </string>
+    <string name = "folder_name"> Mappnamn </string>
+    <string name = "folder_color"> Mappfärg </string>
+    <string name = "cancel"> Avbryt </string>
+    <string name = "save"> Spara </string>
+    <string name = "ok"> OK </string>
+    <string name = "question"> Fråga </string>
+    <string name = "delete_folder_question"> Vill du ta bort mappen %s? </string>
+    <string name = "folders"> Mappar </string>
+    <string name = "add_app_to_folder"> Lägg till applikationer i mappen %s </string>
+    <string name = "edit_folder"> Redigera mapp %s </string>
+    <string name = "delete_folder"> Ta bort mapp %s </string>
+    <string name = "allow_floating_folder"> Lägg till mapp %s till flytlistan </string>
+    <string name = "deny_floating_folder"> Ta bort mappen %s från flottörlistan </string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:id="@+id/ivIcon"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/app_icon_background"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvName"
+            android:textSize="@dimen/text_big_size"
+            android:textColor="@color/white"
+            android:fontFamily="@string/font_family_text"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvPackagesName"
+            android:textSize="@dimen/text_middle_size"
+            android:maxLines="5"
+            android:ellipsize="end"
+            android:fontFamily="@string/font_family_text"
+            android:textColor="@android:color/holo_blue_dark"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:padding="2dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/corner_white_radius_15dp">
+
+        <jlab.floatingfolder.view.SwitchMultiOptionButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/swInternetStatus"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+</LinearLayout>

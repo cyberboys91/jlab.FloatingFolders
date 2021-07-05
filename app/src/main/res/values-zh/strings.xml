@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">浮動文件夾</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">開始</string>
+    <string name="starting_service">開始…</string>
+    <string name="stop_service">停</string>
+    <string name="stopping_service">停…</string>
+    <string name="rate_app">為這個應用軟件評分</string>
+    <string name="about">關於這個程序</string>
+    <string name="close">出去</string>
+    <string name="app_list">申请</string>
+    <string name="accept">好</string>
+    <string name="contact">聯繫</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">您沒有電子郵件應用程序.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, 聯繫: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">主頁</string>
+    <string name="not_channel">浮動文件夾</string>
+    <string name="empty_list">沒有元素</string>
+    <string name="search_hint">搜尋名稱</string>
+    <string name="folder_name">Folder name</string>
+    <string name = "started_floating_service"> 浮動文件夾服務正在運行… </string>
+    <string name = "folder_color"> 文件夾顏色</string>
+    <string name = "cancel"> 取消</string>
+    <string name = "save">保存</string>
+    <string name = "ok"> OK </string>
+    <string name = "question"> 問題</string>
+    <string name = "delete_folder_question">您要刪除文件夾%s嗎？</string>
+    <string name = "folders"> 文件夾</string>
+    <string name = "add_app_to_folder"> 將應用程序添加到文件夾 %s </string>
+    <string name = "edit_folder">編輯文件夾%s</string>
+    <string name = "delete_folder">刪除文件夾%s</string>
+    <string name = "allow_floating_folder">添加%s到浮動文件夾</string>
+    <string name = "deny_floating_folder">從浮動文件夾中刪除%s</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">පාවෙන ෆෝල්ඩර </string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">ආරම්භ</string>
+    <string name="starting_service">ආරම්භ…</string>
+    <string name="stop_service">නවත්වන්න</string>
+    <string name="stopping_service">නවත්වන්න…</string>
+    <string name="rate_app">මෙය ශ්‍රේණිගත කරන්න</string>
+    <string name="about">ගැන</string>
+    <string name="close">පිටවීම</string>
+    <string name="app_list">APPS</string>
+    <string name="accept">හරි</string>
+    <string name="contact">අමතන්න</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">ඔබට විද්‍යුත් තැපැල් යෙදුමක් නොමැත.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, අමතන්න: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">මුල් පිටුව</string>
+    <string name="not_channel">පාවෙන ෆෝල්ඩර</string>
+    <string name="empty_list">මූලද්රව්ය නොමැත</string>
+    <string name="search_hint">නම සොයන්න</string>
+    <string name = "started_floating_service"> පාවෙන ෆෝල්ඩර සේවාව ක්‍රියාත්මක වේ…</string>
+    <string name = "folder_name"> ෆෝල්ඩරයේ නම</string>
+    <string name = "folder_color"> ෆෝල්ඩරයේ වර්ණය</string>
+    <string name = "cancel"> අවලංගු කරන්න</string>
+    <string name = "save"> සුරකින්න</string>
+    <string name = "ok"> හරි</string>
+    <string name = "question"> ප්‍රශ්නය</string>
+    <string name = "delete_folder_question">%s ෆෝල්ඩරය මකා දැමීමට ඔබට අවශ්‍යද?</string>
+    <string name = "folders"> ෆෝල්ඩර</string>
+    <string name = "add_app_to_folder">ෆෝල්ඩරයට යෙදුම් එක් කරන්න %s </string>
+    <string name = "edit_folder"> ෆෝල්ඩරය සංස්කරණය කරන්න %s </string>
+    <string name = "delete_folder">%s ෆෝල්ඩරය මකන්න</string>
+    <string name = "allow_floating_folder"> පාවෙන ලැයිස්තුවට %s ෆෝල්ඩරය එක් කරන්න</string>
+    <string name = "deny_floating_folder"> පාවෙන ලැයිස්තුවෙන් %s ෆෝල්ඩරය ඉවත් කරන්න</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Encadernador flutuantes</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">COMEÇAR</string>
+    <string name="starting_service">INICIANDO…</string>
+    <string name="stop_service">PARE</string>
+    <string name="stopping_service">PARANDO…</string>
+    <string name="rate_app">Avalie este aplicativo</string>
+    <string name="about">Sobre</string>
+    <string name="close">Fechar</string>
+    <string name="app_list">APPS</string>
+    <string name="accept">OK</string>
+    <string name="contact">Contato</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">Você não tem um aplicativo de e-mail.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, Contato: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">PAG. INICIAL</string>
+    <string name="not_channel">Encadernador flutuantes</string>
+    <string name="empty_list">Sem elementos</string>
+    <string name="search_hint">Nome</string>
+    <string name = "started_floating_service"> o serviço Floating Folders está em execução… </string>
+    <string name = "folder_name"> Nome da pasta </string>
+    <string name = "folder_color"> Cor da pasta </string>
+    <string name = "cancel"> Cancelar </string>
+    <string name = "save"> Salvar </string>
+    <string name = "ok"> OK </string>
+    <string name = "question"> Pergunta </string>
+    <string name = "delete_folder_question"> Deseja excluir a pasta %s? </string>
+    <string name = "folders"> Pastas </string>
+    <string name = "add_app_to_folder"> Adicionar aplicativos à pasta %s </string>
+    <string name = "edit_folder"> Editar pasta %s </string>
+    <string name = "delete_folder"> Excluir pasta %s </string>
+    <string name = "allow_floating_folder"> Adicionar a pasta %s à lista flutuante </string>
+    <string name = "deny_floating_folder"> Remover a pasta %s da lista flutuante </string>
+</resources>

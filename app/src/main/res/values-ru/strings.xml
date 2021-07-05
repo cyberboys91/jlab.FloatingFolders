@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Плавающие папки</string>
+    <string name="font_family_text">sans-serif</string>
+    <string name="font_family_text_medium">sans-serif-medium</string>
+    <string name="start_service">НАЧАЛО</string>
+    <string name="starting_service">НАЧАЛО…</string>
+    <string name="stop_service">СТОП</string>
+    <string name="stopping_service">СТОП…</string>
+    <string name="rate_app">Оцените это приложение</string>
+    <string name="about">Об этом приложении</string>
+    <string name="close">Закрыть</string>
+    <string name="app_list">ПРИЛОЖЕНИЯ</string>
+    <string name="accept">OK</string>
+    <string name="contact">Связаться с нами</string>
+    <string name="mail">jlab.apps@gmail.com</string>
+    <string name="app_mail_not_found">У вас нет почтового приложения.</string>
+    <string name="about_content"><b>Floating Folder v1.0</b>, Связаться с нами: <i> jlab.apps@gmail.com</i></string>
+    <string name="home">ОСНОВНОЙ</string>
+    <string name="not_channel">Плавающие папки</string>
+    <string name="empty_list">Без элементов</string>
+    <string name="search_hint">Имя поиска</string>
+    <string name = "started_floating_service"> служба плавающих папок работает… </string>
+    <string name = "folder_name"> Имя папки </string>
+    <string name = "folder_color"> Цвет папки </string>
+    <string name = "cancel"> Отменить </string>
+    <string name = "save"> Сохранить </string>
+    <string name = "ok"> ОК </string>
+    <string name = "question"> Вопрос </string>
+    <string name = "delete_folder_question"> Удалить папку %s? </string>
+    <string name = "folders"> Папки </string>
+    <string name = "add_app_to_folder"> Добавить приложения в папку %s </string>
+    <string name = "edit_folder"> Редактировать папку %s </string>
+    <string name = "delete_folder"> Удалить папку %s </string>
+    <string name = "allow_floating_folder"> Добавить папку %s в плавающий список </string>
+    <string name = "deny_floating_folder"> Удалить папку %s из плавающего списка </string>
+</resources>
